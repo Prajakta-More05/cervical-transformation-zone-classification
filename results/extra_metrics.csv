@@ -1,0 +1,7 @@
+measure,value,ci_low,ci_high
+Brier score,0.319,0.265,0.378
+balanced accuracy,0.72,0.65,0.783
+macro F1,0.725,0.656,0.783
+MCC,0.585,0.481,0.672
+Cohen kappa,0.584,0.479,0.671
+quadratic kappa,0.692,0.601,0.766
